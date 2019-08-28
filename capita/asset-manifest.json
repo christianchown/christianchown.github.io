@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capita/static/css/main.f9290eab.chunk.css",
+    "main.js": "/capita/static/js/main.c57afeb7.chunk.js",
+    "main.js.map": "/capita/static/js/main.c57afeb7.chunk.js.map",
+    "runtime~main.js": "/capita/static/js/runtime~main.5f9cef54.js",
+    "runtime~main.js.map": "/capita/static/js/runtime~main.5f9cef54.js.map",
+    "static/js/2.7411eda7.chunk.js": "/capita/static/js/2.7411eda7.chunk.js",
+    "static/js/2.7411eda7.chunk.js.map": "/capita/static/js/2.7411eda7.chunk.js.map",
+    "index.html": "/capita/index.html",
+    "precache-manifest.47396f5425fe65b70fe16eb9cf9033c6.js": "/capita/precache-manifest.47396f5425fe65b70fe16eb9cf9033c6.js",
+    "service-worker.js": "/capita/service-worker.js",
+    "static/css/main.f9290eab.chunk.css.map": "/capita/static/css/main.f9290eab.chunk.css.map"
+  }
+}
