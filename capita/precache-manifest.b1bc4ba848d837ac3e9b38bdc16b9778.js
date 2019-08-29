@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01dd403331cf0f649b69be5c9c92d541",
+    "revision": "45e3b117febbc478572468fa9cc292ab",
     "url": "/capita/index.html"
   },
   {
-    "revision": "3df7c2dd91adc587f553",
+    "revision": "b7d0c20410e3a14ae18a",
     "url": "/capita/static/css/main.d945563d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capita/static/js/2.7411eda7.chunk.js"
   },
   {
-    "revision": "3df7c2dd91adc587f553",
-    "url": "/capita/static/js/main.c57afeb7.chunk.js"
+    "revision": "b7d0c20410e3a14ae18a",
+    "url": "/capita/static/js/main.03d2d143.chunk.js"
   },
   {
     "revision": "b3fd00b2878d67289c35",
